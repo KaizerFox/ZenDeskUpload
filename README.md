@@ -5,21 +5,22 @@ An upload method with sharex to upload to any website that uses ZenDesk
 ## How to upload to any website that uses Zen Desk
 
 ### Example Websites: 
-https://en.help.roblox.com
-https://support.discordapp.com
-https://help.pornhub.com
-https://help.minecraft.net
-https://consumercomplaints.fcc.gov
-https://faqs.in.gov
-https://support.zoom.us
-https://support.virustotal.com
-https://support.aminoapps.com
-https://help.iheart.com
-https://support.nzxt.com
-https://support.udemy.com
-https://consumercomplaints.fcc.gov
+https://en.help.roblox.com <br>
+https://support.discordapp.com <br>
+https://help.pornhub.com <br>
+https://help.minecraft.net <br>
+https://consumercomplaints.fcc.gov <br>
+https://faqs.in.gov <br>
+https://support.zoom.us <br>
+https://support.virustotal.com <br>
+https://support.aminoapps.com <br>
+https://help.iheart.com <br>
+https://support.nzxt.com <br>
+https://support.udemy.com <br>
+https://consumercomplaints.fcc.gov <br>
+<br>
 
-and put this in a sharex file
+and put this in a sharex (sxcu) file
 
 ```
 {
