@@ -1,0 +1,12 @@
+{
+  "Version": "13.1.0",
+  "Name": "zendeskuploader",
+  "DestinationType": "ImageUploader, TextUploader, FileUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "[domain]/api/v2/uploads.json",
+  "Parameters": {
+    "filename": "$filename$"
+  },
+  "Body": "Binary",
+  "URL": "$json:upload.attachments[0].mapped_content_url$"
+}
